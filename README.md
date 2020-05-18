@@ -17,7 +17,7 @@ The player **wins** by completing the obstacle course
 
 If the player falls off the platform:  
 ![alt text](https://github.com/Husain0007/Cubeathon-with-Unity/blob/master/Lose1.png "Lose1")  
-or collides into a another cube:  
+or collides into another cube:  
 ![alt text](https://github.com/Husain0007/Cubeathon-with-Unity/blob/master/Lose2.png "Lose2")  
 the player **loses** 
 
